@@ -61,37 +61,6 @@ Airports and airlines generate large volumes of operational data. This project t
 
 ---
 
-## 📊 Query Results
-
-### Top Airlines by Passengers
-
-![Top Airlines](Screenshots/Top_Airlines.png)
-
-### Top Origin Airports
-
-![Top Airports](Screenshots/Top_Origin_Airports.png)
-
-### Top Origin Cities
-
-![Top Cities](Screenshots/Top_Origin_Cities.png)
-
-### Passenger Traffic by State
-
-![State Traffic](Screenshots/Passenger_By_State.png)
-
-### Passenger Traffic by Region
-
-![Region Traffic](Screenshots/Passenger_By_Region.png)
-
-### Average Route Distance
-
-![Average Distance](Screenshots/Average_Distance.png)
-
-### Top Airlines by Freight
-
-![Freight Analysis](Screenshots/Top_Airlines_Freight.png)
-
----
 
 ## 🔍 Key Insights
 
